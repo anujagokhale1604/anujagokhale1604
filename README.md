@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Anuja 👋
 
-<!--
-**anujagokhale1604/anujagokhale1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economist · MA Applied Economics, NUS (Merit Scholar) · Available August 2026
 
-Here are some ideas to get you started:
+I study where inflation comes from — not just what it does.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Published research:**
+- 📄 [India → Singapore → UK inflation transmission](https://ssrn.com/abstract=6514338) — Granger causality chain, VAR, cointegration
+- 📄 [Core inflation measurement for MAS](https://ssrn.com/abstract=6847179) — Replication + 4 extensions of MAS Staff Paper No. 2025/1
+
+**Live tools:**
+- 🌧️ [The Monsoon Index](https://monsoon-index.streamlit.app/) — Global inflation transmission tracker, 15 economies
+- 📊 [Policy Terminal](https://transmission-engine.streamlit.app/) — VAR dashboard, MAS policy timeline
+
+**Skills:** Python · Stata · VAR · Granger causality · Streamlit · FRED · Eurostat · SingStat
+
+📧 anujagokhale1604@gmail.com · 🌐 [Research Portfolio](https://anujagokhale1604.github.io)
