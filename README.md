@@ -1,6 +1,6 @@
 ### Hi, I'm Anuja 👋
 
-Economist · MA Applied Economics, NUS (Merit Scholar) · Available August 2026
+Economist · MA Applied Economics, NUS (Merit Scholar) · Available Immediately
 
 I study where inflation comes from — not just what it does.
 
