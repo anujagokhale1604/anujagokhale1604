@@ -11,6 +11,7 @@ I build structural computational engines and empirical models to study monetary 
 
 - ⚡ [**Fast-EGM.jl**](https://github.com/anujagokhale1604/Fast-EGM.jl) — Zero-allocation Endogenous Grid Method (Carroll, 2006) solver in Julia 1.11. Pre-allocated scratchpad workspaces, type-stable dispatch, and mathematically verified Euler equation residuals ($< 2.04 \times 10^{-5}$) with $0$ heap allocations per step.
 - 🌐 [**SOE-HANK-DCP**](https://github.com/anujagokhale1604/SOE-HANK-DCP) — Small Open Economy Heterogeneous-Agent New Keynesian model in Julia evaluating monetary transmission under Dominant Currency Pricing (DCP) vs. Producer Currency Pricing (PCP) via Sequence-Space Jacobians (SSJ) and the Endogenous Grid Method (EGM).
+- 🇬🇧 [**Two-Agent New Keynesian (TANK) Model**](https://github.com/anujagokhale1604/uk-heterogeneity-model) — Julia implementation of a two-agent NK model (mortgaged homeowners vs. renters) calibrated to the 2022–2023 UK tightening cycle. Generates impulse response functions showing differential consumption contraction across household wealth balance sheets *(Companion to SSRN 7604979)*.
 
 ---
 
@@ -25,11 +26,14 @@ I build structural computational engines and empirical models to study monetary 
 
 ### 🖥️ Deployed Macro & Policy Terminals
 
-- 🐾 [**The Pink Panther's Inflation**](https://pink-panther-inflation.streamlit.app) — Live empirical test of the Dominant Currency Paradigm (Gopinath et al.) across currency invoicing pairs.
-- 🌧️ [**The Monsoon Index**](https://monsoon-index.streamlit.app/) — Global inflation transmission tracker across 15 economies and 210 bilateral country pairs.
-- 📊 [**Transmission Engine**](https://transmission-engine.streamlit.app/) — Structural VAR analytics dashboard for the India–Singapore–UK monetary transmission corridor.
-- 🖥️ [**Policy Terminal**](https://policy-terminal.streamlit.app/) — Singapore macro policy analytics engine integrating live FRED indicators with dynamic Taylor Rule stress testing.
-- 🇮🇳 [**India Strategy Terminal**](https://macro-modelgit.streamlit.app/) — Interactive macro stress-testing dashboard using VAR and Markov-Switching models to forecast policy rate and FX responses.
+- 🏛️ [**MAS Monetary Policy Stance Dataset**](https://mas-policy-dataset.streamlit.app) — The only publicly available classified dataset of all 55 MAS S$NEER monetary policy decisions (2001–2026) across slope, width, centring, and hawkishness metrics. Filterable browser and CSV export *(Companion to SSRN 6514338)*.
+- 🐾 [**The Pink Panther's Inflation**](https://pink-panther-inflation.streamlit.app) — Live empirical test of Gopinath’s (2020) Dominant Currency Paradigm across the India–Singapore–UK corridor. DCP vs. PCP horse-race with rolling 24-month correlations, ERPT coefficients, and green commodity chain extensions.
+- 🌧️ [**The Monsoon Index**](https://monsoon-index.streamlit.app/) — Global inflation transmission tracker. Ingests monthly CPI from FRED, Eurostat, SingStat, and World Bank APIs across 15 economies to run rolling 36-month Granger causality across 210 bilateral pairs with automated regime classification.
+- 📊 [**Transmission Engine**](https://transmission-engine.streamlit.app/) — Structural VAR dashboard for India–Singapore–UK inflation dynamics. Real-time Granger causality tracking, Markov-Switching regime detection, and MAS policy event timelines.
+- 🎙️ [**CB Sentiment Analyser**](https://cb-sentiment-analyser.streamlit.app) — NLP-driven hawkish/dovish scoring of central bank communications across the Fed, BoE, MAS, ECB, and RBI (2022–2025). Uses a custom lexicon tailored to S$NEER-specific MAS policy language.
+- 🌍 [**The Multipolar Money Monitor**](https://the-multipolar-money-monitor.streamlit.app) — Live tracker of de-dollarisation indicators: global FX reserve composition, central bank gold reserves, BRICS bilateral trade settlement volumes, and dollar strength indices.
+- 🖥️ [**Policy Terminal**](https://policy-terminal.streamlit.app/) — Singapore monetary terminal featuring SGD/USD 12-month VAR projections, live FRED integration, dynamic Taylor Rule stress testing, and domestic inflation persistence monitors.
+- 🇮🇳 [**India Strategy Terminal**](https://macro-modelgit.streamlit.app/) — Macro policy terminal tracking RBI policy decisions, rupee dynamics, and exchange rate responses via structural VAR and Markov-Switching models.
 
 ---
 
