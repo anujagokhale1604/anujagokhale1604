@@ -16,8 +16,10 @@ I build structural computational engines and empirical models to study monetary 
 
 ### 📄 Working Papers & Policy Research
 
-- 📄 [**India → Singapore → UK Inflation Transmission**](https://ssrn.com/abstract=6514338) — Identification of cross-border inflation pass-through via Granger causality chains, structural VARs, and cointegration testing.
-- 📄 [**Core Inflation Measurement for MAS**](https://ssrn.com/abstract=6847179) — Direct replication and 4 econometric extensions of Monetary Authority of Singapore (MAS) Staff Paper No. 2025/1.
+- 📄 [**Friction, Redirection, or Paralysis? Micro-Level Intentions and Macro-Level Realities of UK Brain Drain During the 2022–2023 Monetary Tightening Cycle**](https://ssrn.com/abstract=7604979) — Micro-level labor mobility intentions vs. macro-level migration outcomes under rapid interest rate adjustments and cost-of-living pressures.
+- 📄 [**Who Bears the Burden? Real Wage and Employment Adjustment to Upstream Inflation Shocks Across Monetary Policy Regimes: Singapore and the United Kingdom**](https://ssrn.com/abstract=7118139) — Comparative cross-regime empirical study evaluating real wage rigidities and employment adjustments to supply-side inflation shocks under exchange-rate (MAS) vs. interest-rate (BoE) targeting.
+- 📄 [**Measuring Core Inflation for Monetary Policy in Singapore: A Replication and Extension of Roger & Xiong (2025)**](https://ssrn.com/abstract=6847179) — Direct replication and 4 econometric extensions of Monetary Authority of Singapore (MAS) Staff Paper No. 2025/1 assessing underlying inflation persistence.
+- 📄 [**Cross-Country Macroeconomic Dynamics: Inflation, Growth, and Monetary Policy — India, Singapore, and the United Kingdom**](https://ssrn.com/abstract=6514338) — Multi-country VAR framework analyzing cross-border monetary spillovers, Granger causality networks, and cointegrating relationships across developing and developed economies.
 
 ---
 
